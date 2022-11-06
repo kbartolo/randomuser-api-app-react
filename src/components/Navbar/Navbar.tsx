@@ -3,7 +3,7 @@ const Navbar = () => {
     <nav className="navbar navbar-dark bg-dark mb-4">
       <div className="container">
         <span className="navbar-brand">
-          <h2>Consuming Randomuser Api</h2>
+          <h2>Using Random User Api</h2>
         </span>
       </div>
     </nav>

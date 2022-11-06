@@ -1,0 +1,11 @@
+.filter {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+  margin-left: 5%;
+  &__input {
+    margin-left: 1em;
+    padding: 3px;
+    border: 1px solid #ddd;
+  }
+}

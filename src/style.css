@@ -1,0 +1,9 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.main {
+  z-index: 100;
+  position: relative;
+}

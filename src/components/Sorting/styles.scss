@@ -1,0 +1,10 @@
+.sorting {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+  margin-left: 5%;
+  &__select {
+    margin-left: 1em;
+    border: 1px solid #ddd;
+  }
+}

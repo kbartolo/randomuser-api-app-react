@@ -1,4 +1,4 @@
-# React Bootstrap App - Consuming RandomUser Api
+# React App - RandomUser Api
 
 Hello everybody, for this app I utilized RandomUser Api, which is a powerfull open-source API
 to play around with user data.
